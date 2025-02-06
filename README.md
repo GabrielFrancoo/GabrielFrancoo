@@ -3,6 +3,8 @@
 
 - 🌱 Atualmente estou aprendendo **HTML e CSS**
 
+- ⚙️ Projeto em andamento https://gabrielfrancoo.github.io/VibeStream/
+
 - 📫 Você me acha através do e-mail **gabrielfranco6843@gmail.com**
 
 - 📄 Minhas experiências profissionais se encontra [www.linkedin.com/in/gabriel-franco-16953725b](www.linkedin.com/in/gabriel-franco-16953725b)
