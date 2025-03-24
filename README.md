@@ -1,13 +1,13 @@
 <h1 align="center">Oi 👋, meu nome é Gabriel</h1>
 <h3 align="center">Estudante de ADS</h3>
 
-- 🌱 Atualmente estou aprendendo **HTML e CSS**
+- 🌱 Atualmente estou aprendendo **HTML, CSS e JavaScript**
 
 - ⚙️ Projeto em andamento https://gabrielfrancoo.github.io/VibeStream/
 
 - 📫 Você me acha através do e-mail **gabrielfranco6843@gmail.com**
 
-- 📄 Minhas experiências profissionais se encontra [www.linkedin.com/in/gabriel-franco-16953725b](www.linkedin.com/in/gabriel-franco-16953725b)
+- 📄 Minhas experiências profissionais se encontra [www.linkedin.com/in/gabrielFranco68](www.linkedin.com/in/gabrielFranco68)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
