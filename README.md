@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, meu nome é Gabriel</h1>
 <h3 align="center">Estudante de ADS</h3>
 
-- 🌱 Atualmente estou aprendendo no ultimo péríodo em análise e desenvolvimento de sistemas.
+- 🌱 Atualmente estou no ultimo péríodo em análise e desenvolvimento de sistemas.
 
 - ⚙️ Projeto em andamento https: SigmaCorp-ERP - um ERP que está disponível no meu portifólio.
 
