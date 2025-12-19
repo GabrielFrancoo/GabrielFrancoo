@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋, meu nome é Gabriel</h1>
 <h3 align="center">Estudante de ADS</h3>
 
-- 🌱 Atualmente estou aprendendo **HTML, CSS e JavaScript**
+- 🌱 Atualmente estou aprendendo no ultimo péríodo em análise e desenvolvimento de sistemas.
 
-- ⚙️ Projeto em andamento https://gabrielfrancoo.github.io/VibeStream/
+- ⚙️ Projeto em andamento https: SigmaCorp-ERP - um ERP que está disponível no meu portifólio.
 
-- 📫 Você me acha através do e-mail **gabrielfranco6843@gmail.com**
+- 📫 Você me acha através do e-mail **gabrielozoriofranco1998@gmail.com**
 
 - 📄 Minhas experiências profissionais se encontra [www.linkedin.com/in/gabrielFranco68](www.linkedin.com/in/gabrielFranco68)
 
